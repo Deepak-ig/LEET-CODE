@@ -48,6 +48,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Deepak-ig/LEET-CODE/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Deepak-ig/LEET-CODE/tree/master/0367-valid-perfect-square) |
 ## Interactive
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Deepak-ig/LEET-CODE/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Deepak-ig/LEET-CODE/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Deepak-ig/LEET-CODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Deepak-ig/LEET-CODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
