@@ -17,6 +17,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Deepak-ig/LEET-CODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Deepak-ig/LEET-CODE/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepak-ig/LEET-CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak-ig/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Deepak-ig/LEET-CODE/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Deepak-ig/LEET-CODE/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-ig/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
