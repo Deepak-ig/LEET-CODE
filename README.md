@@ -42,4 +42,12 @@
 | [0205-isomorphic-strings](https://github.com/Deepak-ig/LEET-CODE/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-ig/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Deepak-ig/LEET-CODE/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Deepak-ig/LEET-CODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
