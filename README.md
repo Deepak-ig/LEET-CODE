@@ -20,6 +20,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Deepak-ig/LEET-CODE/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Deepak-ig/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -41,6 +42,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Deepak-ig/LEET-CODE/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Deepak-ig/LEET-CODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Deepak-ig/LEET-CODE/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Deepak-ig/LEET-CODE/tree/master/0292-nim-game) |
