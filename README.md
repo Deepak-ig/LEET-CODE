@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepak-ig/LEET-CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/Deepak-ig/LEET-CODE/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Deepak-ig/LEET-CODE/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Deepak-ig/LEET-CODE/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
