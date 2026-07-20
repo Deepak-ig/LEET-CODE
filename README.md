@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/Deepak-ig/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-ig/LEET-CODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepak-ig/LEET-CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Deepak-ig/LEET-CODE/tree/master/1550-three-consecutive-odds) |
@@ -37,6 +38,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-ig/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-ig/LEET-CODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Two Pointers
 |  |
 | ------- |
