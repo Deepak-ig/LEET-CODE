@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Deepak-ig/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepak-ig/LEET-CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1550-three-consecutive-odds](https://github.com/Deepak-ig/LEET-CODE/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Deepak-ig/LEET-CODE/tree/master/1672-richest-customer-wealth) |
@@ -41,6 +42,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Deepak-ig/LEET-CODE/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
