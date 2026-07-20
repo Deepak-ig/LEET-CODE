@@ -32,6 +32,7 @@
 | [0724-find-pivot-index](https://github.com/Deepak-ig/LEET-CODE/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-ig/LEET-CODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-ig/LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepak-ig/LEET-CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Deepak-ig/LEET-CODE/tree/master/1550-three-consecutive-odds) |
@@ -74,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/Deepak-ig/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-ig/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-ig/LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Deepak-ig/LEET-CODE/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak-ig/LEET-CODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Deepak-ig/LEET-CODE/tree/master/2351-first-letter-to-appear-twice) |
@@ -134,6 +136,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Deepak-ig/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-ig/LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Deepak-ig/LEET-CODE/tree/master/2351-first-letter-to-appear-twice) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-ig/LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
