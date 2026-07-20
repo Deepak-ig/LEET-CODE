@@ -32,6 +32,7 @@
 | [1470-shuffle-the-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Deepak-ig/LEET-CODE/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Deepak-ig/LEET-CODE/tree/master/1672-richest-customer-wealth) |
+| [1991-find-the-middle-index-in-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1991-find-the-middle-index-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
