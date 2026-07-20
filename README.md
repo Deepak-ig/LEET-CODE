@@ -18,6 +18,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepak-ig/LEET-CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Sliding Window
 |  |
 | ------- |
