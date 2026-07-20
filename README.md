@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Deepak-ig/LEET-CODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Deepak-ig/LEET-CODE/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
