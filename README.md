@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Deepak-ig/LEET-CODE/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
@@ -13,4 +14,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
