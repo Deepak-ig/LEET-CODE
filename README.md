@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -45,6 +46,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Deepak-ig/LEET-CODE/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
