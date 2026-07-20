@@ -24,6 +24,7 @@
 | [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak-ig/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Deepak-ig/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Deepak-ig/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Deepak-ig/LEET-CODE/tree/master/0724-find-pivot-index) |
@@ -67,6 +68,7 @@
 | [0041-first-missing-positive](https://github.com/Deepak-ig/LEET-CODE/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Deepak-ig/LEET-CODE/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Deepak-ig/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-ig/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -124,6 +126,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Deepak-ig/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
