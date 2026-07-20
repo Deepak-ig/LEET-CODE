@@ -15,6 +15,7 @@
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepak-ig/LEET-CODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak-ig/LEET-CODE/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Deepak-ig/LEET-CODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Deepak-ig/LEET-CODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
@@ -75,6 +76,7 @@
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
 | [1748-sum-of-unique-elements](https://github.com/Deepak-ig/LEET-CODE/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak-ig/LEET-CODE/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Deepak-ig/LEET-CODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,4 +143,9 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Deepak-ig/LEET-CODE/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/Deepak-ig/LEET-CODE/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Deepak-ig/LEET-CODE/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
