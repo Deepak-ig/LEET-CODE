@@ -35,6 +35,7 @@
 | [1470-shuffle-the-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Deepak-ig/LEET-CODE/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Deepak-ig/LEET-CODE/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Deepak-ig/LEET-CODE/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1991-find-the-middle-index-in-array) |
 ## Sliding Window
 |  |
@@ -72,6 +73,7 @@
 | [0217-contains-duplicate](https://github.com/Deepak-ig/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-ig/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0567-permutation-in-string) |
+| [1748-sum-of-unique-elements](https://github.com/Deepak-ig/LEET-CODE/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak-ig/LEET-CODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -135,4 +137,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Deepak-ig/LEET-CODE/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1991-find-the-middle-index-in-array) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Deepak-ig/LEET-CODE/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
