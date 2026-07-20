@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Deepak-ig/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Deepak-ig/LEET-CODE/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepak-ig/LEET-CODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deepak-ig/LEET-CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -127,5 +128,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Deepak-ig/LEET-CODE/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
