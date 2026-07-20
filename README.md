@@ -55,5 +55,14 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Deepak-ig/LEET-CODE/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Deepak-ig/LEET-CODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Deepak-ig/LEET-CODE/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Deepak-ig/LEET-CODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
