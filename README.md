@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak-ig/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-ig/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -56,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Deepak-ig/LEET-CODE/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Deepak-ig/LEET-CODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Deepak-ig/LEET-CODE/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Deepak-ig/LEET-CODE/tree/master/0292-nim-game) |
