@@ -8,6 +8,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Deepak-ig/LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Deepak-ig/LEET-CODE/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-ig/LEET-CODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepak-ig/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/Deepak-ig/LEET-CODE/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
