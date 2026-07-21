@@ -162,4 +162,5 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Deepak-ig/LEET-CODE/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Deepak-ig/LEET-CODE/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepak-ig/LEET-CODE/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/Deepak-ig/LEET-CODE/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
