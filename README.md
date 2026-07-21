@@ -155,4 +155,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepak-ig/LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Deepak-ig/LEET-CODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
